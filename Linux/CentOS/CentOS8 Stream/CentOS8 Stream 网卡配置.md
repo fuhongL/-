@@ -2,7 +2,7 @@
 
 2.具体配置
 
-    ![image](https://github.com/user-attachments/assets/2d1894d4-ef42-4328-8b34-e0d5a6a1d22d)
+![image](https://github.com/user-attachments/assets/2d1894d4-ef42-4328-8b34-e0d5a6a1d22d)
 
 
 3.重启网卡
