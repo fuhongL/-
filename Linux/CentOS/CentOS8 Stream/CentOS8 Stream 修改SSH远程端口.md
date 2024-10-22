@@ -4,7 +4,7 @@
 
 2.修改Port字段后的数字即可
 
-    ![image](https://github.com/user-attachments/assets/6cf3084c-da54-4c9b-8360-1b2ab864044e)
+![image](https://github.com/user-attachments/assets/6cf3084c-da54-4c9b-8360-1b2ab864044e)
 
 3.修改防火墙规则（如果系统防火墙已关闭请忽略，此处以firewalld防火墙为例）
 
@@ -18,7 +18,7 @@
     
     firewall-cmd --list-all # 查看当前的配置
 
-    ![image](https://github.com/user-attachments/assets/307be2b0-8fb6-4145-85ef-e586c89c59f9)
+![image](https://github.com/user-attachments/assets/307be2b0-8fb6-4145-85ef-e586c89c59f9)
     
 4.重启sshd服务
 
